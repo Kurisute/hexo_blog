@@ -13,8 +13,8 @@ timezone: 'UTC'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://kurisute.github.io
-root: /
+url: http://kurisute.github.io/hexo_blog
+root: /hexo_blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
